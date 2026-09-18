@@ -79,27 +79,23 @@ footer {
     padding: 30px;
 }
 
-/* #nav-menu {
-    position: fixed;
-    display: grid;
-    grid-template-columns: ;
-} */
-
 .page-description {
     padding: 30px;
 }
 
-.desc-A {
+.banner-A {
     background-color: #1A73E8;
     color: white;
     font-size: medium;
+    padding: 30px;
 }
 
-.desc-B {
+.banner-B {
     background-color: #E8EFFE;
     color: rgb(76, 76, 240);
     text-align: center;
     font-size: small;
+    padding: 30px;
 }
 
 .desc-B a {
@@ -116,7 +112,7 @@ footer {
 
 .carding-2 {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
     gap: 30px;
     text-align: center;
 }
