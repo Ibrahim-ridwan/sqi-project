@@ -34,7 +34,7 @@
     height: 30px;
     width: 100vw;
     position: absolute;
-    bottom: 619px;
+    bottom: 650px;
 }
 
 .walk-way {
@@ -43,7 +43,7 @@
     background-image: url(images/interlock.jpg);
     width: 100vw;
     position: absolute;
-    bottom: 565px;
+    bottom: 600px;
 }
 
 .signs {
@@ -82,13 +82,11 @@
 
 .ped-woman {  position: absolute;  right: 2100px;  bottom: 10px; }
 
-.road { position: relative;   top: 450px; }
+.road { position: relative;   top: 410px; }
 
 .road-1, .road-2 { width: 100vw;  height: 260px; }
 
 .right-lane, .left-lane {   position: relative; }
-
-/* .left-lane { margin-top: 30px; } */
 
 .taxi-1a { position: absolute;  top: 20px; right: 2000px; }
 
